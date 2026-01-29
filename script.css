@@ -710,4 +710,5 @@ if (typeof module !== 'undefined' && module.exports) {
         scrollToElement,
         generateId
     };
+
 }
